@@ -38,6 +38,6 @@
 
 <p align="center">
 <a href="www.kuralabs.org"><img alt="Website" src="img.shields.io/badge/Website-www.kuralabs.org-o..."></a>
-<a href="www.linkedin.com/in/tyronesanderson"><img alt="LinkedIn" src="img.shields.io/badge/LinkedIn-Tyrone%20Sanderso..."></a>
-<a href="tsanderson@kuralabs.org"><img alt="Email" src="img.shields.io/badge/Email-tsanderson@kuralabs...."></a>
+<a href="www.linkedin.com/in/dolma-tgurung"><img alt="LinkedIn" src="img.shields.io/badge/LinkedIn-Dolma%20Gurung..."></a>
+<a href="dolmatgurung1@gmail.com"><img alt="Email" src="img.shields.io/badge/Email-dolmatgurung1@gmail.com...."></a>
 </p>
