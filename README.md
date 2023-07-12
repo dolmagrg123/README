@@ -4,11 +4,15 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 What do you like to do
-- 🎓 What's your educational background
-- 💼 What are you planning on doing for work
-- 🌱 Currently working on
-- ✍️ Repositories you want to emphasize
+- 🤔 I love exploring new places and go to dance classes.
+  
+- 🎓 I currently have a Bachelors of Science in Computer Science
+- 💼 I have been interested in Teach from an early age. Few years back I started learning about Cloud Computing. Since then I have figured out what I want to work on.
+- 🌱 I am a Software Engineer in JP Morgan Chase with an emphasis in platform and infrastructure modernization. I am also a student at Kura Labs where I get to learn new topics everyday.
+- ✍️ Some projects I have worked in the past:
+
+https://github.com/dolmagrg123/devbops_blog_microservice
+https://github.com/dolmagrg123/EverestCapital_Event
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
